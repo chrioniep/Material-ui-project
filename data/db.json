@@ -1,0 +1,64 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "Pay the balance",
+      "details": "just some bla bla bla",
+      "category": "money",
+      "id": 4
+    },
+    {
+      "title": "Prepare some breakfast",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+      "category": "todos",
+      "id": 5
+    },
+    {
+      "title": "Pay Ps4 console",
+      "details": "Lorem Ipsum is simply dummy text of the printing since",
+      "category": "money",
+      "id": 6
+    },
+    {
+      "title": "Release User",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum ",
+      "category": "work",
+      "id": 7
+    },
+    {
+      "title": "Search Theme",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever sinceLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever sinceLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+      "category": "reminders",
+      "id": 8
+    },
+    {
+      "title": "Eat food",
+      "details": "Lorem Ipsum is simply dummy text of the printing ",
+      "category": "todos",
+      "id": 9
+    },
+    {
+      "title": "Watch Video on Youtube",
+      "details": "bre breakp breakp lorem dimse jdpa ea breakp lorem dimse",
+      "category": "reminders",
+      "id": 10
+    }
+  ]
+}
